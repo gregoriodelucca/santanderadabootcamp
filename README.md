@@ -1,1 +1,1 @@
-<h1 aling="center"> cadastro Leading page</h1>
+<h1 align="center"> cadastro Leading page</h1>
